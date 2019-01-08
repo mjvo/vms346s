@@ -1,0 +1,32 @@
+baseURL: "https://mjvo.github.io/vms346s"
+title: "VMS 346S"
+
+defaultContentLanguage: en
+languages:
+  en:
+    lang: en
+    languageName: English
+    weight: 1
+
+MetaDataFormat: "yaml"
+
+theme: 
+  - "hugo-course"
+
+FootnoteReturnLinkContents: "↩"
+
+outputFormats:
+  Remark:
+    baseName: index
+    mediaType: text/html
+    isHTML: true
+
+params:
+  course:
+    name: "Visual Cultures of Medicine"
+    dept_url: "https://aahvs.duke.edu"
+    dept_logo: "images/AAHVS_Barcode_Logo.png"
+    day_time: "Mondays & Wednesdays, 11:45 AM - 1:00 PM"
+    location: "A290 Smith Warehouse, Bay 9"
+    hero_img: "images/anat_07.jpg"
+    hero_img_credit: 'Image: <a href="http://www.lomki.com/pages/anatomie.html" target="_blank">Jérémie Decalf, Le Cours d’Anatomie</a>'

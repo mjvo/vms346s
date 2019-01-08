@@ -1,0 +1,9 @@
+# type must be "prof" or "ta"
+name:  "Dr. Mark Olson"
+role: "ta"
+title: "Professor"
+email: "mark.olson@duke.edu"
+telephone: "(919) 613-6726"
+office: "A262A Smith Warehouse, Bay 10"
+office_hours:  '<a href="https://calendly.com/mark-olson/" target="_blank">Schedule an Appointment</a>'
+avatar: "/images/mark_olson.jpg"
