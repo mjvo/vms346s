@@ -3,9 +3,10 @@ title: "Schedule"
 menu: "main"
 ---
 
-Specific readings and themes are subject to revision at the instructor’s discretion, so check back often for the most up-to-date information.
+Specific readings and themes are subject to revision at the instructor’s discretion, so check back often for the most up-to-date information. Unless otherwise indicated or linked, readings can be found on Sakai.
 
-_The schedule will also be updated throughout the semester with optional events and opportunities of interest on the theme of medicine and culture._
+_The schedule will also be updated throughout the semester with optional events and opportunities of interest on the theme of medicine and culture.  These are marked in <span style="color:purple;">purple</span>._
+
 
 ## Schedule (through February 20)
 
@@ -13,7 +14,7 @@ _The schedule will also be updated throughout the semester with optional events 
 
 **Patient Intake Paperwork & Orientation**
 
-* Selection from Montross, C. (2007). “An Unsteady Balance.” in Body of Work: Meditations on Mortality from the Human Anatomy Lab. New York: Penguin Press.
+* Selection from Montross, C. (2007). “[An Unsteady Balance](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-09/dividedmontross2007chapter10.pdf).” in _Body of Work: Meditations on Mortality from the Human Anatomy Lab_. New York: Penguin Press.
 
 ---
 
@@ -23,8 +24,8 @@ _The schedule will also be updated throughout the semester with optional events 
 
 Readings:
 
-* Sturken, M., & Cartwright, L. (2017). “Introduction” and “Practices of Looking” in Practices of Looking: An Introduction to Visual Culture. (pp. 1 – 29).  Oxford University Press.
-* Clarke, A.E. (2010).  “From the Rise of Medicine to Biomedicalization / U.S. Healthscapes and Iconography, circa 1890–Present” in A.E. Clarke et al. Biomedicalization: Technoscience, Health, and Illness in the U.S. (pp. 104-146).  Durham, NC:  Duke University Press.
+* Sturken, M., & Cartwright, L. (2017). [“Introduction” and “Practices of Looking”](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-14/Sturken_Cartwright_IntroCh1_2017.pdf.pdf) in Practices of Looking: An Introduction to Visual Culture. (pp. 1 – 29).  Oxford University Press.
+* Clarke, A.E. (2010).  “[From the Rise of Medicine to Biomedicalization / U.S. Healthscapes and Iconography, circa 1890–Present](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-14/clarke2010.pdf)” in A.E. Clarke et al. Biomedicalization: Technoscience, Health, and Illness in the U.S. (pp. 104-146).  Durham, NC:  Duke University Press.
 
 ---
 
@@ -34,19 +35,19 @@ Readings:
 
 Readings:
 
-* Jamison, Leslie  (2014).  "The Empathy Exams."  In The Empathy Exams (pp. 1 - 26).  Minneapolis, MN:  Greywolf Press. 
-* Barnard, Emma (@PatientAsPaper).  (2017, August 31).  ”Primum Non Nocere: An Artist’s Perspective into the World of Medicine.”  BMJ Medical Humanities Blog. 
-* Montross, C. (2007). “First Cut” in Body of Work: Meditations on Mortality from the Human Anatomy Lab (pp. 15-29). New York: Penguin Press.
+* Jamison, Leslie  (2014).  "[The Empathy Exams](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-16/EmpathyExams.pdf)."  In _The Empathy Exams_ (pp. 1 - 26).  Minneapolis, MN:  Greywolf Press. 
+* Barnard, Emma (@PatientAsPaper).  (2017, August 31).  ”[Primum Non Nocere: An Artist’s Perspective into the World of Medicine](https://blogs.bmj.com/medical-humanities/2017/08/31/primum-non-nocere-an-artists-perspective-into-the-world-of-medicine/).”  _BMJ Medical Humanities Blog_. 
+* Montross, C. (2007). “[First Cut](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-16/montross2007chapter2.pdf).” In _Body of Work: Meditations on Mortality from the Human Anatomy Lab_ (pp. 15-29). New York: Penguin Press.
 
 ---
 
 
-## <span style="color: purple">Wednesday, January 16th</span>
+## <span style="color: purple">Wednesday, January 16th @ 5:00 PM</span>
 **<span style="color: purple">Graphic Medicine Exhibition Opening Reception</span>**
 
-6:00 PM, Brown Gallery, Bryan Center
+Brown Gallery, Bryan Center
 
-Exhibition curated by Kelsey Graywill and Omar Khan and sponsored by DUU Visual Arts Committee. Pieces here might make good fodder for a journal/blog post.
+_Exhibition curated by Kelsey Graywill and Omar Khan and sponsored by DUU Visual Arts Committee. Pieces here might make good fodder for a journal/blog post._
 
 ---
 
@@ -60,29 +61,33 @@ Exhibition curated by Kelsey Graywill and Omar Khan and sponsored by DUU Visual 
 
 Reading:
 
-* Ginzburg, C.  (1979).  “Clues: Roots of an Evidential Paradigm.” Theory and Society, 7(3):  273-288.   [Includes brief excerpt, pp. 102 – 105, from Ginzburg, C. (1989). “Clues: Roots of an Evidential Paradigm.” in Clues, Myths, and the Historical Method (pp. 96-125). Baltimore & London: Johns Hopkins University Press.]
-* Goodwin, C. (1994).  “Professional Vision.”  American Anthropologist, 96(3): 606–633. doi:10.1525/aa.1994.96.3.02a00100
+* Ginzburg, C.  (1979).  “[Clues: Roots of an Evidential Paradigm](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-23/GinzburgClues1979-1989.pdf).” _Theory and Society, 7_(3):  273-288.   [Includes brief excerpt, pp. 102 – 105, from Ginzburg, C. (1989). “Clues: Roots of an Evidential Paradigm.” in _Clues, Myths, and the Historical Method_ (pp. 96-125). Baltimore & London: Johns Hopkins University Press.]
+* Goodwin, C. (1994).  “[Professional Vision](http://dx.doi.org.proxy.lib.duke.edu/10.1525/aa.1994.96.3.02a00100).”  _American Anthropologist, 96_(3): 606–633. doi: 10.1525/aa.1994.96.3.02a00100
 
 ---
 
 ## <span style="color:purple;">Thursday, January 24th @ 5:45 PM</span>
-**<span style="color:purple;">2019 Boyarsky Lecture</span>**
+**<span style="color:purple;">“More Just, More Humane: Reimagining the Social Role of Medicine”(2019 Boyarsky Lecture)</span>**
 
-“More Just, More Humane: Reimagining the Social Role of Medicine”, Arno Kumagai, MD
 Great Hall, Trent Semans Center for Health Education
+
+_The education and mentoring of future health practitioners play a critical role in their care of the ill and suffering. What does moral education look like? How can we develop a more unified approach to teaching and learning for societal significance?_
+
+_Dr. Arno Kumagai (University of Toronto) will consider these questions and explore the concept of critical consciousness in teaching for equity and justice. He will show how stories, reflections, and dialogue can foster transformative learning and lead to transformation of the practice of medicine._
+
+Reception to follow.
 
 ---
 
 ## Monday, January 28th
 **Simulation and Embodiment:  Acting Sick**
 
-
 Readings:
 
-* Artist Corinne May Botz's Bedside Manner photograph series of simulated patients. Thumbnails available at https://www.corinnebotz.com/bedside-manner-3/ 
-* Chapters 6 & 10 from Simulated Patient Methodology: Theory, Evidence and Practice by Nestel and Bearman Malden, MA, Wiley Blackwell 2015: 39-45; 71-78. 
-* Flaherty, Alice W. “Performing the Art of Medicine.” Total Art Journal. 1.1 (2011): 1-11.
-* Case, Gretchen A., and Daniel J. Brauner. "Perspective: The Doctor as Performer: A Proposal for Change Based on a Performance Studies Paradigm." Academic Medicine 85.1 (2010): 159-63. 
+* Artist Corinne May Botz's _[Bedside Manner](https://www.corinnebotz.com/bedside-manner/)_ photograph series of simulated patients. Thumbnails available at https://www.corinnebotz.com/bedside-manner-3/ 
+* [Chapters 6 & 10](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-28/SimulatedPatientMethodology.pdf) from _Simulated Patient Methodology: Theory, Evidence and Practice_ by Nestel and Bearman Malden, MA, Wiley Blackwell 2015: 39-45; 71-78. 
+* Flaherty, A. W. (2011). “[Performing the Art of Medicine](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-28/Flaherty_PerformingTheArtOfMedicine_TotalArtJournal_Vol.1_No.1_Summer2011.pdf).” _Total Art Journal 1_(1): 1-11.
+* Case, G. A., & Brauner, D. J.  (2010). "[Perspective: The Doctor as Performer: A Proposal for Change Based on a Performance Studies Paradigm](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-28/DoctorasPerformer.pdf)." _Academic Medicine 85_(1): 159-63. 
 
 ---
 
@@ -92,8 +97,8 @@ Readings:
 
 Readings:
 
-* Kapsalis, T. (1997). “Cadavers, Dolls, and Prostitutes.” In Public Privates: Performing Gynecology from Both Ends of the Speculum (pp. 61-79). Durham: Duke University Press.
-* Kaminsky, L. (2018, June 4).  “The Case for Renaming Women’s Body Parts.”  The Health Gap Series (Amanda Ruggeri, Editor/Curator).  BBC Future.
+* Kapsalis, T. (1997). “[Cadavers, Dolls, and Prostitutes](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-30/kapsalis1997chap3.pdf).” In _Public Privates: Performing Gynecology from Both Ends of the Speculum_ (pp. 61-79). Durham: Duke University Press.
+* Kaminsky, L. (2018, June 4).  “[The Case for Renaming Women’s Body Parts](http://www.bbc.com/future/story/20180531-how-womens-body-parts-have-been-named-after-men).”  The Health Gap Series (Amanda Ruggeri, Editor/Curator).  _BBC Future_.
 
 ---
 
@@ -102,7 +107,7 @@ Readings:
 
 5:30 - 7:30 PM, Rubenstein Art Center
 
-This is the opening reception of (In)visible Gateway, a mixed media exhibit, part of a larger campaign for women’s empowerment in healthcare—working to demystify women’s reproductive anatomy and start a positive and productive dialogue about the shame and stigma surrounding sexual and reproductive health. At this event, the opening reception for the exhibit, scientists, engineers, artists, humanist, and documentarians will all converge to celebrate women’s health, reproductive anatomy, and rights through the power of dynamic, mixed media storytelling and performance art.
+_This is the opening reception of_ (In)visible Gateway, _a mixed media exhibit, part of a larger campaign for women’s empowerment in healthcare—working to demystify women’s reproductive anatomy and start a positive and productive dialogue about the shame and stigma surrounding sexual and reproductive health. At this event, the opening reception for the exhibit, scientists, engineers, artists, humanist, and documentarians will all converge to celebrate women’s health, reproductive anatomy, and rights through the power of dynamic, mixed media storytelling and performance art._
 
 ---
 
@@ -111,9 +116,9 @@ This is the opening reception of (In)visible Gateway, a mixed media exhibit, par
 
 Readings:
 
-* Fountain, T.K.  (2014).  “One Body to Learn Another: Activities of the Anatomy Lab” (pp. 24-52).  In Rhetoric in the Flesh. Trained Vision, Technical Expertise, and the Gross Anatomy Lab.  London and New York: Routledge.
-* Tait, S. (2006). “Autoptic Vision and the Necrophilic Imaginary in CSI.” International Journal of Cultural Studies, 9, 45-62.
-Moore, Charleen M. and C. Mackenzie. (2004). “Gunther von Hagens and Body Worlds Part 1: the anatomist as prosektor and proplastiker.” Anatomical Record 276: 8-14.
+* Fountain, T.K.  (2014).  “One Body to Learn Another: Activities of the Anatomy Lab” (pp. 24-52).  In _Rhetoric in the Flesh. Trained Vision, Technical Expertise, and the Gross Anatomy Lab_.  London and New York: Routledge.
+* Tait, S. (2006). “[Autoptic Vision and the Necrophilic Imaginary in CSI](http://dx.doi.org.proxy.lib.duke.edu/10.1177/1367877906061164).” _International Journal of Cultural Studies_, 9, 45-62.
+Moore, C. M. & Mackenzie, C. (2004). “[Gunther von Hagens and Body Worlds Part 1: the anatomist as prosektor and proplastiker](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-02-04/Moore_et_al-2004-The_Anatomical_Record_Part_B__The_New_Anatomist.pdf).” _The Anatomical Record Part B: The New Anatomist, 276_(1): 8-14.  doi: z10.1002/ar.b.20003
 
 ---
 
@@ -122,24 +127,28 @@ Moore, Charleen M. and C. Mackenzie. (2004). “Gunther von Hagens and Body Worl
 
 Readings:
 
-* Fountain, T.K.  (2014).  Selections from Chapter 6, “Downplaying Personhood: Anatomical Focus and the Praise of Cadavers” (pp. 154-165) and Chapter 7, “Acknowledging Personhood: Anatomical Donation and the Gift Analogy” (pp. 171-182) in Rhetoric in the Flesh. Trained Vision, Technical Expertise, and the Gross Anatomy Lab.  London and New York: Routledge.
-* Chen, P. W. (2007). Through the Looking Glass. In Final Exam: A Surgeon’s Reflections on Mortality (pp. 191-211). New York: Alfred A. Knopf.
+* Fountain, T. K.  (2014).  Selections from Chapter 6, “Downplaying Personhood: Anatomical Focus and the Praise of Cadavers” (pp. 154-165) and Chapter 7, “Acknowledging Personhood: Anatomical Donation and the Gift Analogy” (pp. 171-182).  In _Rhetoric in the Flesh. Trained Vision, Technical Expertise, and the Gross Anatomy Lab_.  London and New York: Routledge.
+* Chen, P. W. (2007). "[Through the Looking Glass](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-02-06/chen2007chap9.pdf)." In _Final Exam: A Surgeon’s Reflections on Mortality_ (pp. 191-211). New York: Alfred A. Knopf.
 
 ---
 
-## <span style="color:purple;">Friday, February 8th</span>
+## <span style="color:purple;">Friday, February 8th @ 12:00 PM</span>
 **<span style="color:purple;">The Calla Campaign: The Art of Self-Exploration (Ruby Friday)</span>**
 
-https://artscenter.duke.edu/event/2019-02-08/ 
-12:00 - 1:00 PM, Rubenstein Art Center
+Rubenstein Art Center
 
-Friday, February 8th and Saturday, February 9th
-Manual Cinema’s Ada/Ava (Duke Performances)
-8:00 PM, Reynolds Theater
-Tickets:  $10 (Students)
+Students involved in the Calla Campaign will talk about how a new medical device became the basis for an exhibit focused on self-exploration and what was learned along the way.  For more information: https://artscenter.duke.edu/event/2019-02-08/
 
-https://dukeperformances.duke.edu/events/manual-cinema-1-ada-ava/ 
-Ada/Ava is an homage to the films of Alfred Hitchcock, a ghost story and a lovelorn tale. Two septuagenarian sisters share a quiet life in a seaside cottage beneath the lighthouse they tend. When Ava dies during afternoon tea, Ada is left to search for her missing half. She senses despair in unused objects, wonders whom she actually sees in the mirror, and embarks on a surreal quest to find her sister and herself.
+---
+
+## <span style="color:purple;">Friday, February 8th and Saturday, February 9th @ 8:00 PM</span>
+**<span style="color:purple;">Manual Cinema’s Ada/Ava (Duke Performances)</span>**
+
+Reynolds Theater, West Campus
+[Tickets:  $10 (Students)](https://dukeperformances.duke.edu/events/manual-cinema-1-ada-ava/)
+
+
+Ada/Ava _is an homage to the films of Alfred Hitchcock, a ghost story and a lovelorn tale. Two septuagenarian sisters share a quiet life in a seaside cottage beneath the lighthouse they tend. When Ava dies during afternoon tea, Ada is left to search for her missing half. She senses despair in unused objects, wonders whom she actually sees in the mirror, and embarks on a surreal quest to find her sister and herself._
 
 ---
 
@@ -148,8 +157,8 @@ Ada/Ava is an homage to the films of Alfred Hitchcock, a ghost story and a lovel
 
 Readings:
 
-* McCloud, Scott. (1993). "Blood in the Gutter" and "Time Frames" from Understanding Comics: The Invisible Art (HarperCollins).  
-* Williams, Ian. (2015). “The Iconography of Illness” from Graphic Medicine Manifesto (U of PA Press): 115-33.
+* McCloud, S. (1993). "Blood in the Gutter" and "Time Frames" from Understanding Comics: The Invisible Art (HarperCollins).  
+* Williams, Ian. (2015). “[Comics and The Iconography of Illness](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-02-11/WilliamsIconographyofIllness.pdf).” In Czerwiec, M.K. et al. (eds). _Graphic Medicine Manifesto._ (pp. 115-133).  University Park, PA:  University of Pennsylvania Press.
 * Watch:  Looney Tunes short "Duck Amuck" (1953) by Chuck Jones. 
 
 ---
