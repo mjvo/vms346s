@@ -33,6 +33,8 @@ Readings:
 
 **Empathy / Autopsis**
 
+<span class="tag is-important">**Due:**  Object Lesson Blog Post</span>
+
 Readings:
 
 * Jamison, Leslie  (2014).  "[The Empathy Exams](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-16/EmpathyExams.pdf)."  In _The Empathy Exams_ (pp. 1 - 26).  Minneapolis, MN:  Greywolf Press. 
@@ -165,7 +167,7 @@ Ada/Ava _is an homage to the films of Alfred Hitchcock, a ghost story and a love
 
 ---
 
-##Monday, February 11th
+## Monday, February 11th
 **Introduction to Graphic Medicine:  Grids & Gestures**
 
 Readings:
