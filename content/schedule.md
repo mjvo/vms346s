@@ -191,10 +191,10 @@ Reading:
 
 Readings:
 
-* Belling, C. and Czerwiec, MK, eds.  (2012) “Graphic,” a special issue (#10) of Atrium: The Report of the Northwestern Medical Humanities & Bioethics Program .
-* Farinella, M. (2018). “Of Microscopes and Metaphors: Visual Analogy as a Scientific Tool.” The Comics Grid: Journal of Comics Scholarship, 8, p.18. DOI: http://doi.org/10.16995/cg.130
-* Green, M.J. & Myers, K.R. (2010).  “Graphic Medicine: Use of Comics in Medical Education and Patient Care.”  BMJ, 340:  574-577.  doi: 10.1136/bmj.c863
+* Belling, C. and Czerwiec, MK. (Eds). (2012). “[Graphic](https://www.bioethics.northwestern.edu/docs/atrium/atrium-issue10.pdf),” a special issue (#10) of _Atrium: The Report of the Northwestern Medical Humanities & Bioethics Program_.
+* Farinella, M. (2018). “[Of Microscopes and Metaphors: Visual Analogy as a Scientific Tool](http://doi.org/10.16995/cg.130).” _The Comics Grid: Journal of Comics Scholarship, 8,_ p.18. DOI: 10.16995/cg.130
+* Green, M.J. & Myers, K.R. (2010).  “[Graphic Medicine: Use of Comics in Medical Education and Patient Care](http://dx.doi.org.proxy.lib.duke.edu/10.1136/bmj.c863).”  _BMJ,_ 340:  574-577.  DOI: 10.1136/bmj.c863
 
 Optional:
 
-* Listen:  Graphic Medicine Manifesto Discussion Panel
+* Listen:  [Graphic Medicine Manifesto Discussion Panel](https://www.graphicmedicine.org/wp-content/uploads/2015/10/Episode-3.m4a)  [Length: 01:24:07]
