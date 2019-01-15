@@ -85,7 +85,8 @@ Reception to follow.
 Readings:
 
 * Artist Corinne May Botz's _[Bedside Manner](https://www.corinnebotz.com/bedside-manner/)_ photograph series of simulated patients. Thumbnails available at https://www.corinnebotz.com/bedside-manner-3/ 
-* [Chapters 6 & 10](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-28/SimulatedPatientMethodology.pdf) from _Simulated Patient Methodology: Theory, Evidence and Practice_ by Nestel and Bearman Malden, MA, Wiley Blackwell 2015: 39-45; 71-78. 
+* Smith, C.M., et. al. (2015).  "[The Dramatic Arts and Simulated Patient Methodology](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-28/Simulated_Patient_Methodology_Chapter_6.pdf)." (pp 39-45).  In Nestel, D., and Bearman, M. (Eds.).  _Simulated Patient Methodology: Theory, Evidence and Practice._ Malden, MA: Wiley Blackwell.
+* Nestel, D., Bearman, M., and  Fleishman, C. (2015). "[Simulated Patients as Teachers: The Role of Feedback](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-28/Simulated_Patient_Methodology_Chapter_10.pdf)." (pp. 71-78).  In Nestel, D., and Bearman, M. (Eds.).  _Simulated Patient Methodology: Theory, Evidence and Practice._ Malden, MA: Wiley Blackwell.
 * Flaherty, A. W. (2011). “[Performing the Art of Medicine](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-28/Flaherty_PerformingTheArtOfMedicine_TotalArtJournal_Vol.1_No.1_Summer2011.pdf).” _Total Art Journal 1_(1): 1-11.
 * Case, G. A., & Brauner, D. J.  (2010). "[Perspective: The Doctor as Performer: A Proposal for Change Based on a Performance Studies Paradigm](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-28/DoctorasPerformer.pdf)." _Academic Medicine 85_(1): 159-63. 
 
@@ -97,15 +98,27 @@ Readings:
 
 Readings:
 
-* Kapsalis, T. (1997). “[Cadavers, Dolls, and Prostitutes](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-30/kapsalis1997chap3.pdf).” In _Public Privates: Performing Gynecology from Both Ends of the Speculum_ (pp. 61-79). Durham: Duke University Press.
+* Kapsalis, T. (1997). “[Cadavers, Dolls, and Prostitutes:  Medical Pedagogy and the Pelvic Rehearsal](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-30/kapsalis1997chap3.pdf).” In _Public Privates: Performing Gynecology from Both Ends of the Speculum_ (pp. 61-79). Durham: Duke University Press.
 * Kaminsky, L. (2018, June 4).  “[The Case for Renaming Women’s Body Parts](http://www.bbc.com/future/story/20180531-how-womens-body-parts-have-been-named-after-men).”  The Health Gap Series (Amanda Ruggeri, Editor/Curator).  _BBC Future_.
 
 ---
 
-## <span style="color:purple;">Friday, February 1st</span>
+## <span style="color:purple;">Thursday, January 31 @ 5:00 PM</span>
+
+**<span style="color:purple;">The Doctors Are In: Storytelling, Race and the Emergency Room</span>**
+
+Health Humanities Lab, Trent Hall Room 0037A
+
+_Romance Studies and Global Health faculty member Deborah Jenson will converse with Duke Divinity and UNC School of Medicine student Danielle Jameison on storytelling, race and the emergency room. The session will include Danielle’s performance of a story composed for theHHL Storytelling in Medicine & Health class, co-taught by Drs. Jenson, Barfield and Polish. Drinks and hors d’oeuvres will be served._
+
+For more information:  https://www.facebook.com/events/289391294981344/
+
+---
+
+## <span style="color:purple;">Friday, February 1st @ 5:30 PM</span>
 **<span style="color:purple;">Opening Reception: (In)visible Gateway, a mixed media exhibit</span>**
 
-5:30 - 7:30 PM, Rubenstein Art Center
+Rubenstein Art Center
 
 _This is the opening reception of_ (In)visible Gateway, _a mixed media exhibit, part of a larger campaign for women’s empowerment in healthcare—working to demystify women’s reproductive anatomy and start a positive and productive dialogue about the shame and stigma surrounding sexual and reproductive health. At this event, the opening reception for the exhibit, scientists, engineers, artists, humanist, and documentarians will all converge to celebrate women’s health, reproductive anatomy, and rights through the power of dynamic, mixed media storytelling and performance art._
 
@@ -157,9 +170,9 @@ Ada/Ava _is an homage to the films of Alfred Hitchcock, a ghost story and a love
 
 Readings:
 
-* McCloud, S. (1993). "Blood in the Gutter" and "Time Frames" from Understanding Comics: The Invisible Art (HarperCollins).  
+* McCloud, S. (1993). ["Blood in the Gutter" and "Time Frames"](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-02-11/McCloudNONOTES.pdf) from _Understanding Comics: The Invisible Art._  New York: HarperCollins.  
 * Williams, Ian. (2015). “[Comics and The Iconography of Illness](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-02-11/WilliamsIconographyofIllness.pdf).” In Czerwiec, M.K. et al. (eds). _Graphic Medicine Manifesto._ (pp. 115-133).  University Park, PA:  University of Pennsylvania Press.
-* Watch:  Looney Tunes short "Duck Amuck" (1953) by Chuck Jones. 
+* Watch:  Looney Tunes short ["Duck Amuck" (1953)](http://www.criticalcommons.org/Members/ccManager/clips/duck-amuck/view) by Chuck Jones. 
 
 ---
 
