@@ -98,6 +98,8 @@ Readings:
 
 **Gendered Medicine**
 
+<span class="tag is-important">**Due by Thursday, January 31st:**  Object Lesson Blog Post</span>
+
 Readings:
 
 * Kapsalis, T. (1997). “[Cadavers, Dolls, and Prostitutes:  Medical Pedagogy and the Pelvic Rehearsal](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-01-30/kapsalis1997chap3.pdf).” In _Public Privates: Performing Gynecology from Both Ends of the Speculum_ (pp. 61-79). Durham: Duke University Press.
@@ -139,6 +141,8 @@ Moore, C. M. & Mackenzie, C. (2004). “[Gunther von Hagens and Body Worlds Part
 
 ## Wednesday, February 6th
 **TENTATIVE: VISIT TO ANATOMY LAB.**
+
+<span class="tag is-important">**Due by Thursday, February 7th:**  Object Lesson Blog Post as Response to Lab Visit</span>
 
 Readings:
 
@@ -200,3 +204,6 @@ Readings:
 Optional:
 
 * Listen:  [Graphic Medicine Manifesto Discussion Panel](https://www.graphicmedicine.org/wp-content/uploads/2015/10/Episode-3.m4a)  [Length: 01:24:07]
+
+<!-- ## Wednesday, February 20th -->
+
