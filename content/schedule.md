@@ -20,7 +20,7 @@ _The schedule will also be updated throughout the semester with optional events 
 
 ## Monday, January 14th
 
-**What are “Visual Cultures of Medicine”?**  [Slides](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Slides/2019-01-14Introduction.pdf)
+**What are “Visual Cultures of Medicine”?**  [[Slides]](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Slides/2019-01-14Introduction.pdf)
 
 Readings:
 
