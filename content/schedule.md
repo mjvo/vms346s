@@ -140,7 +140,7 @@ Moore, C. M. & Mackenzie, C. (2004). “[Gunther von Hagens and Body Worlds Part
 ---
 
 ## Wednesday, February 6th
-**TENTATIVE: VISIT TO ANATOMY LAB.**
+**Visit to Duke Medicine's Gross Anatomy and Fresh Tissue Lab.**
 
 <span class="tag is-important">**Due by Thursday, February 7th:**  [Object Lesson Blog Post - Response to Lab Visit](https://sakai.duke.edu/portal/site/d6ad2426-22a1-4005-84ec-48b243439051/tool/d9e34fbd-c606-4dbb-b3c5-3c1b1a48fd47/blog_view?showcomments=true&addcomment=false&locationId=%2Fsite%2Fd6ad2426-22a1-4005-84ec-48b243439051)</span>
 
