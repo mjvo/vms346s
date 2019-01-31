@@ -135,7 +135,7 @@ Readings:
 
 * Fountain, T.K.  (2014).  “[One Body to Learn Another: Activities of the Anatomy Lab](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-02-04/fountain2014chapter2.pdf)” (pp. 24-52).  In _Rhetoric in the Flesh. Trained Vision, Technical Expertise, and the Gross Anatomy Lab_.  London and New York: Routledge.
 * Tait, S. (2006). “[Autoptic Vision and the Necrophilic Imaginary in CSI](http://dx.doi.org.proxy.lib.duke.edu/10.1177/1367877906061164).” _International Journal of Cultural Studies_, 9, 45-62.
-Moore, C. M. & Mackenzie, C. (2004). “[Gunther von Hagens and Body Worlds Part 1: the anatomist as prosektor and proplastiker](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-02-04/Moore_et_al-2004-The_Anatomical_Record_Part_B__The_New_Anatomist.pdf).” _The Anatomical Record Part B: The New Anatomist, 276_(1): 8-14.  doi: z10.1002/ar.b.20003
+* Moore, C. M. & Mackenzie, C. (2004). “[Gunther von Hagens and Body Worlds Part 1: the anatomist as prosektor and proplastiker](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-02-04/Moore_et_al-2004-The_Anatomical_Record_Part_B__The_New_Anatomist.pdf).” _The Anatomical Record Part B: The New Anatomist, 276_(1): 8-14.  doi: z10.1002/ar.b.20003
 
 ---
 
