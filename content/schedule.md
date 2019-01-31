@@ -148,7 +148,7 @@ We will meet in the foyer of Perkins Library, outside of the Perk cafe.
 
 Readings:
 
-* Fountain, T. K.  (2014).  Selections from Chapter 6, “Downplaying Personhood: Anatomical Focus and the Praise of Cadavers” (pp. 154-165) and Chapter 7, “Acknowledging Personhood: Anatomical Donation and the Gift Analogy” (pp. 171-182).  In _Rhetoric in the Flesh. Trained Vision, Technical Expertise, and the Gross Anatomy Lab_.  London and New York: Routledge.
+* Fountain, T. K.  (2014).  [Selections from Chapter 6, “Downplaying Personhood: Anatomical Focus and the Praise of Cadavers” (pp. 154-165) and Chapter 7, “Acknowledging Personhood: Anatomical Donation and the Gift Analogy” (pp. 171-182)](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-02-06/fountain2014ch6_7selection.pdf).  In _Rhetoric in the Flesh. Trained Vision, Technical Expertise, and the Gross Anatomy Lab_.  London and New York: Routledge.
 * Chen, P. W. (2007). "[Through the Looking Glass](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-02-06/chen2007chap9.pdf)." In _Final Exam: A Surgeon’s Reflections on Mortality_ (pp. 191-211). New York: Alfred A. Knopf.
 
 ---
