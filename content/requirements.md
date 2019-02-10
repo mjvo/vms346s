@@ -69,6 +69,8 @@ All readings will be made available through the course's Sakai website:  http://
     15% of grade
 
     In this assignment, students will engage in a practice of visual rhetoric: an analytical approach where word and image come together to illustrate cultural meanings as well as aesthetic values.  Specifically, students will draw on the intertextual writing conventions of Harper’s Weekly magazine’s “Annotation” feature (see, e.g. https://harpers.org/archive/2013/09/helter-seltzer/).  Each student will annotate a panel or panel sequence from a medical education comic, a genre known as “graphic medicine.”
+
+    [Annotation Assignment Handout](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Graphic%20Medicine%20Annotation/graphic_medicine_annotation_assignment.pdf)
     
     ---
 
