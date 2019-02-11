@@ -187,15 +187,18 @@ Readings:
 ## Wednesday, February 13th
 **Medical History / History of Anatomical Representation** 
 
-*** Meet in Room 150, Rubenstein Library on West Campus to tour the History of Medicine Collection and learn about the Duke Medical Center Archives ***
+*** Meet in Room 350, Rubenstein Library on West Campus to tour the History of Medicine Collection and learn about the Duke Medical Center Archives ***
+
 Reading:
 
-* Sappol, M. (2004). Visionary Anatomies and the Great Divide: Art, Science and the Changing Conventions of Anatomical Representation, 1500-2003. In Visionary Anatomies  (pp. 1-6; 37-39). Washington, DC: National Academy of Sciences.
+* Sappol, M. (2004). [Visionary Anatomies and the Great Divide: Art, Science and the Changing Conventions of Anatomical Representation, 1500-2003](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-02-13/sappol2004.pdf). In _Visionary Anatomies_  (pp. 1-6; 37-39). Washington, DC: National Academy of Sciences.
 
 ---
 
 ## Monday, February 18th
 **Graphic Medicine**
+
+<span class="tag is-warning">**Due:**  Show & Tell / Archives Speak</span>
 
 Readings:
 
