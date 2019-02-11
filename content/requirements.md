@@ -58,14 +58,18 @@ All readings will be made available through the course's Sakai website:  http://
 
 1. **Show and Tell / Archives Speak: History of Medicine Collection**
 
-    5% of grade 
+    Due:  Monday, February 18   
+    5% of grade
 
     One of our class sessions will be held in the Rubenstein Library’s History of Medicine Collection where we will explore historical artifacts from medicine’s visual and material culture.   In this assignment, each student will choose one artifact and from its point of view or the point of view of its user, creator or its recipient/audience write a 300-350 word monologue or poem with an accompanying illustration or avatar for the item. You will be asked to create a context or encounter for the item; select first, second, or third person for the point of view, and think of the experience or knowledge that the item carries with it into the situation you’ve crafted. Think of whether your writing is set within the item’s historical time/use or from the now of your interaction with it in the archive or from some time/place in-between.
+
+    [Show & Tell / Archives Speak Assignment Handout](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Assignments/Show%20_%20Tell%20_%20Archives%20Speak/ShowTellArchivesSpeak.pdf)
 
     ---
 
 1. **Graphic Medicine Annotation**
 
+    Due:  Wednesday, March 6   
     15% of grade
 
     In this assignment, students will engage in a practice of visual rhetoric: an analytical approach where word and image come together to illustrate cultural meanings as well as aesthetic values.  Specifically, students will draw on the intertextual writing conventions of Harper’s Weekly magazine’s “Annotation” feature (see, e.g. https://harpers.org/wp-content/uploads/2015/08/HA062__06650-2.png).  Each student will annotate a panel or panel sequence from a medical education comic, a genre known as “graphic medicine.”
