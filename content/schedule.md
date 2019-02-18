@@ -213,7 +213,7 @@ Optional:
 ## Wednesday, February 20th
 **The Operating Theater**
 
-<span class="tag is-important">**Due:**  [Object Lesson Blog Post](https://sakai.duke.edu/portal/site/d6ad2426-22a1-4005-84ec-48b243439051/tool/d9e34fbd-c606-4dbb-b3c5-3c1b1a48fd47/blog_view?showcomments=true&addcomment=false&locationId=%2Fsite%2Fd6ad2426-22a1-4005-84ec-48b243439051)</span>
+<span class="tag is-important">**Due by Thursday, February 21st:**  [Object Lesson Blog Post](https://sakai.duke.edu/portal/site/d6ad2426-22a1-4005-84ec-48b243439051/tool/d9e34fbd-c606-4dbb-b3c5-3c1b1a48fd47/blog_view?showcomments=true&addcomment=false&locationId=%2Fsite%2Fd6ad2426-22a1-4005-84ec-48b243439051)</span>
 
 * Hirschauer, S. (1991). [The Manufacture of Bodies in Surgery](http://dx.doi.org.proxy.lib.duke.edu/10.1177/030631291021002005). _Social Studies of Science, 21_(2), 279-319.
 * Watch: [Le Théâtre des Opérations](https://vimeo.com/103340686) / "The Operating Theater" (Benoît Rossel — 1 hr 25 mins)
