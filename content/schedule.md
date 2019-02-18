@@ -217,4 +217,4 @@ Optional:
 
 * Hirschauer, S. (1991). [The Manufacture of Bodies in Surgery](http://dx.doi.org.proxy.lib.duke.edu/10.1177/030631291021002005). _Social Studies of Science, 21_(2), 279-319.
 * Watch: [Le Théâtre des Opérations](https://vimeo.com/103340686) / "The Operating Theater" (Benoît Rossel — 1 hr 25 mins)
-* Cartwright, C. (2012).  “Epilogue: Hands of the Empathographer.”  in Lammer, C.  _Empathography_ (pp. 147-153).  Vienna:  Löcker.
+* Cartwright, C. (2012).  “[Epilogue: Hands of the Empathographer](http://www.corporealities.org/wp-content/uploads/2013/06/c-lammer-publ-b.pdf).”  in Lammer, C.  _Empathography_ (pp. 147-153).  Vienna:  Löcker.
