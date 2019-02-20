@@ -218,3 +218,21 @@ Optional:
 * Hirschauer, S. (1991). [The Manufacture of Bodies in Surgery](http://dx.doi.org.proxy.lib.duke.edu/10.1177/030631291021002005). _Social Studies of Science, 21_(2), 279-319.
 * Watch: [Le Théâtre des Opérations](https://vimeo.com/103340686) / "The Operating Theater" (Benoît Rossel — 1 hr 25 mins)
 * Cartwright, C. (2012).  “[Epilogue: Hands of the Empathographer](http://www.corporealities.org/wp-content/uploads/2013/06/c-lammer-publ-b.pdf).”  in Lammer, C.  _Empathography_ (pp. 147-153).  Vienna:  Löcker.
+
+## Monday, February 25th
+**Mediating the Medical Gaze / Introduction to the Normative**
+
+* Reiser, S. J. (1993). “[Technology and the Use of the Senses in Twentieth-Century Medicine](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-02-25/reiser1993.pdf).” In W. F. Bynum & R. Porter (Eds.), _Medicine and the Five Senses_ (pp. 262-273). Cambridge; New York, N.Y., USA: Cambridge University Press.
+* Wellman, M. (1958) “[The Concept of the Normal in Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1830141/?page=1),” _Canadian Medical Association Journal 79_(1): 43-4.
+* Sholl, Jonathan. "[Nobody is Normal](https://aeon.co/essays/is-it-time-to-abandon-the-medical-construct-of-being-normal)". Aeon.com 31 Jan. 2017.
+
+## Wednesday, February 27th
+**In-Class Workshop:  Graphic Annotation Drafts**
+
+Come to class with a draft, in hand or on laptop, of your Graphic Annotation assignment. Individuals will be selected at random to talk through their drafts with some time devoted to small group work on revising.
+
+ 
+## Monday, March 4th
+**The Underside of the Normative**
+
+* Sekula, Allan. “[The Body and the Archive](https://www.jstor.org/stable/778312),” October 39 (1986), pp. 3-64.
