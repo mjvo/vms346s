@@ -236,3 +236,23 @@ Come to class with a draft, in hand or on laptop, of your Graphic Annotation ass
 **The Underside of the Normative**
 
 * Sekula, Allan. “[The Body and the Archive](https://www.jstor.org/stable/778312),” October 39 (1986), pp. 3-64.
+
+## Wednesday, March 6th
+**Disability and Normality**
+
+<span class="tag is-warning">**Due:**  [Graphic Medicine Annotation](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Assignments/Graphic%20Medicine%20Annotation/graphic_medicine_annotation_assignment.pdf)</span>
+
+* Tiles, Mary. [The Normal and Pathological: The Concept of a Scientific Medicine](http://dx.doi.org.proxy.lib.duke.edu/10.1093/bjps/44.4.729). _The British Journal for the Philosophy of Science_ 44.4 (1993), pp. 729–42.  doi: 10.1093/bjps/44.4.729
+* Segment from [Code of the Freaks](https://vimeo.com/20531038), a documentary film in progress about the disabled body in popular culture and mainstream film.  [Runtime: 18:09]
+
+## Monday, March 11th
+**SPRING BREAK – NO CLASS**
+
+## Wednesday, March 13th
+**SPRING BREAK – NO CLASS**
+
+## Monday, March 18th
+**Final Project Proposal Presentations**
+
+## Wednesday, March 20th
+
