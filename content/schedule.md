@@ -242,7 +242,7 @@ Come to class with a draft, in hand or on laptop, of your Graphic Annotation ass
 
 <span class="tag is-warning">**Due:**  [Graphic Medicine Annotation](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Assignments/Graphic%20Medicine%20Annotation/graphic_medicine_annotation_assignment.pdf)</span>
 
-* Tiles, Mary. [The Normal and Pathological: The Concept of a Scientific Medicine](http://dx.doi.org.proxy.lib.duke.edu/10.1093/bjps/44.4.729). _The British Journal for the Philosophy of Science_ 44.4 (1993), pp. 729–42.  doi: 10.1093/bjps/44.4.729
+* Tiles, Mary. [The Normal and Pathological: The Concept of a Scientific Medicine](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-03-06/Tiles1993.pdf). _The British Journal for the Philosophy of Science_ 44.4 (1993), pp. 729–42.  doi: 10.1093/bjps/44.4.729
 * Segment from [Code of the Freaks](https://vimeo.com/20531038), a documentary film in progress about the disabled body in popular culture and mainstream film.  [Runtime: 18:09]
 
 ## Monday, March 11th
@@ -255,4 +255,10 @@ Come to class with a draft, in hand or on laptop, of your Graphic Annotation ass
 **Final Project Proposal Presentations**
 
 ## Wednesday, March 20th
+**Eugenics**
+
+* Braun, Lundy (2005).   “[Spirometry, Measurement and Race in the Nineteenth Century](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-03-20/braun2005.pdf)”, _Journal of the History of Medicine and Allied Sciences 60_(2): 135–169. doi: 10.1093/jhmas/jri021
+* Braun, Lundy (2014).  Chapter 3, “[The Professionalization of Physical Culture: Making and Measuring Whiteness](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-03-20/braun2014chapter3.pdf)” in _Breathing Race into the Machine_ (pp. 55-82).  Minneapolis, MN:  University of Minnesota Press.
+* Levine, Philippa. (2017).  Chapter 4, "[The Inequalities of Eugenics](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-03-20/levine2017chapter4.pdf)" in _Eugenics: A Very Short Introduction_ (pp. 72-96).  New York: Oxford Univrsity Press.
+
 
