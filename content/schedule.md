@@ -246,10 +246,12 @@ Come to class with a draft, in hand or on laptop, of your Graphic Annotation ass
 * Segment from [Code of the Freaks](https://vimeo.com/20531038), a documentary film in progress about the disabled body in popular culture and mainstream film.  [Runtime: 18:09]
 
 ## Monday, March 11th
-**SPRING BREAK – NO CLASS**
+**SPRING BREAK – NO CLASS**   
+
 
 ## Wednesday, March 13th
-**SPRING BREAK – NO CLASS**
+**SPRING BREAK – NO CLASS**   
+
 
 ## Monday, March 18th
 **Final Project Proposal Presentations**
@@ -261,4 +263,21 @@ Come to class with a draft, in hand or on laptop, of your Graphic Annotation ass
 * Braun, Lundy (2014).  Chapter 3, “[The Professionalization of Physical Culture: Making and Measuring Whiteness](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-03-20/braun2014chapter3.pdf)” in _Breathing Race into the Machine_ (pp. 55-82).  Minneapolis, MN:  University of Minnesota Press.
 * Levine, Philippa. (2017).  Chapter 4, "[The Inequalities of Eugenics](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-03-20/levine2017chapter4.pdf)" in _Eugenics: A Very Short Introduction_ (pp. 72-96).  New York: Oxford Univrsity Press.
 
+## Monday, March 25th
+**Workshop with [Marina Tsaplina](https://sites.fhi.duke.edu/healthhumanitieslab/team/marina-tsaplina/)**
 
+* Listen: "[The Hidden History of Eugenics](https://www.abc.net.au/radionational/programs/earshot/features/hidden-history-of-eugenics/)."  A 4-part podcast from the Australian Broadcast Company, 2016. 
+
+* Visit the [Dream Anatomy exhibit’s Online Activity page](https://www.nlm.nih.gov/dreamanatomy/onlineactivities.html) on the National Library of Medicine website and then follow exercise #2: 
+
+    As you view the anatomical illustrations below, think of the purpose of each illustration. _Does the illustration convey emotion as well as anatomical information? Would you speculate that there are more differences than similarities between the anatomical illustration and the people whose bodies were dissected to create the illustration?_
+    1. [Anatomiae, hoc est, corporis humani dissectionis](https://www.nlm.nih.gov/dreamanatomy/da_g_I-A-1-04.html)
+    1. [Systemized Anatomy; or Human Organography](https://www.nlm.nih.gov/dreamanatomy/da_g_II-C-07.html)
+    1. [Man as Industrial Palace](https://www.nlm.nih.gov/dreamanatomy/da_g_IV-A-01.html)
+
+
+## Wednesday, March 27th
+**Twenty-First Century Eugenics**
+
+* Samuel, E. (2011). "[Examining Millie and Christine McKoy: Where Enslavement and Enfreakment Meet.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/660176)" _Signs: A Journal of Women in Culture and Society 37_(1): 53-81. doi: 10.1086 / 660176
+* Smith, S. (2016). "[Twenty-First Century 'Eugenics'?: The Enduring Legacy.](https://dx.doi.org.proxy.lib.duke.edu/10.1353/pbm.2017.0001)" _Perspectives in Biology and Medicine 59_(2): 156-71. doi: 10.1353/pbm.2017.0001
