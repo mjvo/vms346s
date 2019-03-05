@@ -210,6 +210,8 @@ Optional:
 
 * Listen:  [Graphic Medicine Manifesto Discussion Panel](https://www.graphicmedicine.org/wp-content/uploads/2015/10/Episode-3.m4a)  [Length: 01:24:07]
 
+---
+
 ## Wednesday, February 20th
 **The Operating Theater**
 
@@ -219,6 +221,8 @@ Optional:
 * Watch: [Le Théâtre des Opérations](https://vimeo.com/103340686) / "The Operating Theater" (Benoît Rossel — 1 hr 25 mins)
 * Cartwright, C. (2012).  “[Epilogue: Hands of the Empathographer](http://www.corporealities.org/wp-content/uploads/2013/06/c-lammer-publ-b.pdf).”  in Lammer, C.  _Empathography_ (pp. 147-153).  Vienna:  Löcker.
 
+---
+
 ## Monday, February 25th
 **Mediating the Medical Gaze / Introduction to the Normative**
 
@@ -226,16 +230,21 @@ Optional:
 * Wellman, M. (1958) “[The Concept of the Normal in Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1830141/?page=1),” _Canadian Medical Association Journal 79_(1): 43-4.
 * Sholl, Jonathan. "[Nobody is Normal](https://aeon.co/essays/is-it-time-to-abandon-the-medical-construct-of-being-normal)". Aeon.com 31 Jan. 2017.
 
+---
+
 ## Wednesday, February 27th
 **In-Class Workshop:  Graphic Annotation Drafts**
 
 Come to class with a draft, in hand or on laptop, of your Graphic Annotation assignment. Individuals will be selected at random to talk through their drafts with some time devoted to small group work on revising.
 
- 
+---
+
 ## Monday, March 4th
 **The Underside of the Normative**
 
 * Sekula, Allan. “[The Body and the Archive](https://www.jstor.org/stable/778312),” October 39 (1986), pp. 3-64.
+
+---
 
 ## Wednesday, March 6th
 **Disability and Normality**
@@ -245,16 +254,22 @@ Come to class with a draft, in hand or on laptop, of your Graphic Annotation ass
 * Tiles, Mary. [The Normal and Pathological: The Concept of a Scientific Medicine](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-03-06/Tiles1993.pdf). _The British Journal for the Philosophy of Science_ 44.4 (1993), pp. 729–42.  doi: 10.1093/bjps/44.4.729
 * Segment from [Code of the Freaks](https://vimeo.com/20531038), a documentary film in progress about the disabled body in popular culture and mainstream film.  [Runtime: 18:09]
 
+---
+
 ## Monday, March 11th
 **SPRING BREAK – NO CLASS**   
 
+---
 
 ## Wednesday, March 13th
 **SPRING BREAK – NO CLASS**   
 
+---
 
 ## Monday, March 18th
 **Final Project Proposal Presentations**
+
+---
 
 ## Wednesday, March 20th
 **Eugenics**
@@ -262,6 +277,8 @@ Come to class with a draft, in hand or on laptop, of your Graphic Annotation ass
 * Braun, Lundy (2005).   “[Spirometry, Measurement and Race in the Nineteenth Century](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-03-20/braun2005.pdf)”, _Journal of the History of Medicine and Allied Sciences 60_(2): 135–169. doi: 10.1093/jhmas/jri021
 * Braun, Lundy (2014).  Chapter 3, “[The Professionalization of Physical Culture: Making and Measuring Whiteness](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-03-20/braun2014chapter3.pdf)” in _Breathing Race into the Machine_ (pp. 55-82).  Minneapolis, MN:  University of Minnesota Press.
 * Levine, Philippa. (2017).  Chapter 4, "[The Inequalities of Eugenics](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-03-20/levine2017chapter4.pdf)" in _Eugenics: A Very Short Introduction_ (pp. 72-96).  New York: Oxford Univrsity Press.
+
+---
 
 ## Monday, March 25th
 **Workshop with [Marina Tsaplina](https://sites.fhi.duke.edu/healthhumanitieslab/team/marina-tsaplina/)**
@@ -275,9 +292,46 @@ Come to class with a draft, in hand or on laptop, of your Graphic Annotation ass
     1. [Systemized Anatomy; or Human Organography](https://www.nlm.nih.gov/dreamanatomy/da_g_II-C-07.html)
     1. [Man as Industrial Palace](https://www.nlm.nih.gov/dreamanatomy/da_g_IV-A-01.html)
 
+---
 
 ## Wednesday, March 27th
 **Twenty-First Century Eugenics**
 
 * Samuel, E. (2011). "[Examining Millie and Christine McKoy: Where Enslavement and Enfreakment Meet.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/660176)" _Signs: A Journal of Women in Culture and Society 37_(1): 53-81. doi: 10.1086 / 660176
-* Smith, S. (2016). "[Twenty-First Century 'Eugenics'?: The Enduring Legacy.](https://dx.doi.org.proxy.lib.duke.edu/10.1353/pbm.2017.0001)" _Perspectives in Biology and Medicine 59_(2): 156-71. doi: 10.1353/pbm.2017.0001
+* Smith, S. (2016). "[Twenty-First Century 'Eugenics'?: The Enduring Legacy.](http://dx.doi.org.proxy.lib.duke.edu/10.1353/pbm.2017.0001)" _Perspectives in Biology and Medicine 59_(2): 156-71. doi: 10.1353/pbm.2017.0001
+
+---
+
+## Monday, April 1st
+**Eugenic Economies I: Automation, Autonomy, Capital**
+
+* Gawande, A. (1998, October 5). “When Machines Become Doctors, Will Doctors Become Machines?” Medical Economics.
+* Taylor, S. (2004) "[The Right Not to Work: Power and Disability](https://monthlyreview.org/2004/03/01/the-right-not-to-work-power-and-disability/)." _The Monthly Review, 55_(10) 
+* Additional reading TBD
+
+---
+
+## Wednesday, April 3rd
+**Surgical Simulation**
+
+Visit to Duke School of Medicine’s [Surgical Education & Activities Lab (SEAL)](https://surgery.duke.edu/education-and-training/educational-laboratories/surgical-education-and-activities-lab)   
+_Meet at SEAL, [Trent Semans Center for Health Education, 5th Floor](https://goo.gl/maps/rCAUzn7dnT52)_
+
+* Prentice, R. (2013).  “[The Anatomy of a Surgical Simulation](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-04-03/prentice2013ch7.pdf).” In _Bodies in Formation: An Ethnography of Anatomy and Surgery Education._ (pp. 227-252).  Durham, NC:  Duke University Press.
+* Kneebone, R., Oakes, F., & Bicknell, C. (2019). "[Reframing Surgical Simulation: The Textile Body as Metaphor](http://dx.doi.org.proxy.lib.duke.edu/10.1016/S0140-6736(18)33173-8)." _The Lancet, 393_(10166):  22-23. doi: 10.1016/S0140-6736(18)33173-8.
+
+---
+
+## <span style="color:purple;">Friday, April 5th @ 12:00 PM</span>
+**<span style="color:purple;">Puppetry and the Poetic Body in Medicine, Health and Healing  (Ruby Friday)</span>**
+
+Rubenstein Art Center
+https://artscenter.duke.edu/event/2019-04-05 
+
+_Marina Tsaplina is a puppeteer and performing artist based in Brooklyn, NY whose artistic and scholarly work focuses on the lived experience of chronic illness. She is artist lead of [Reimagining Medicine](https://stories.duke.edu/reimagining-medicine), a medical humanities project based at Duke. Tsaplina will talk about the unique role of puppetry in her deep engagement with the health humanities._ 
+
+---
+
+
+
+
