@@ -269,6 +269,7 @@ Come to class with a draft, in hand or on laptop, of your Graphic Annotation ass
 ## Monday, March 18th
 **Final Project Proposal Presentations**
 
+* [Final Project Proposal Guidelines](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Assignments/Semester%20Project/VMS%20346S%20-%20Final%20Project.pdf)
 ---
 
 ## Wednesday, March 20th
@@ -305,7 +306,7 @@ Come to class with a draft, in hand or on laptop, of your Graphic Annotation ass
 ## Monday, April 1st
 **Eugenic Economies I: Automation, Autonomy, Capital**
 
-* Gawande, A. (1998, October 5). “When Machines Become Doctors, Will Doctors Become Machines?” Medical Economics.
+* Gawande, A. (1998, October 5). "[When Machines Become Doctors, Will Doctors Become Machines?](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-04-01/gawande1998.pdf)" _Medical Economics_.
 * Taylor, S. (2004) "[The Right Not to Work: Power and Disability](https://monthlyreview.org/2004/03/01/the-right-not-to-work-power-and-disability/)." _The Monthly Review, 55_(10) 
 * Additional reading TBD
 
@@ -331,6 +332,7 @@ https://artscenter.duke.edu/event/2019-04-05
 _Marina Tsaplina is a puppeteer and performing artist based in Brooklyn, NY whose artistic and scholarly work focuses on the lived experience of chronic illness. She is artist lead of [Reimagining Medicine](https://stories.duke.edu/reimagining-medicine), a medical humanities project based at Duke. Tsaplina will talk about the unique role of puppetry in her deep engagement with the health humanities._ 
 
 ---
+
 
 
 
