@@ -270,10 +270,13 @@ Come to class with a draft, in hand or on laptop, of your Graphic Annotation ass
 **Final Project Proposal Presentations**
 
 * [Final Project Proposal Guidelines](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Assignments/Semester%20Project/VMS%20346S%20-%20Final%20Project.pdf)
+
 ---
 
 ## Wednesday, March 20th
 **Eugenics**
+
+<span class="tag is-important">**Due by Thursday, March 21st:**  [Object Lesson Blog Post](https://sakai.duke.edu/portal/site/d6ad2426-22a1-4005-84ec-48b243439051/tool/d9e34fbd-c606-4dbb-b3c5-3c1b1a48fd47/blog_view?showcomments=true&addcomment=false&locationId=%2Fsite%2Fd6ad2426-22a1-4005-84ec-48b243439051)</span>
 
 * Braun, Lundy (2005).   “[Spirometry, Measurement and Race in the Nineteenth Century](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-03-20/braun2005.pdf)”, _Journal of the History of Medicine and Allied Sciences 60_(2): 135–169. doi: 10.1093/jhmas/jri021
 * Braun, Lundy (2014).  Chapter 3, “[The Professionalization of Physical Culture: Making and Measuring Whiteness](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-03-20/braun2014chapter3.pdf)” in _Breathing Race into the Machine_ (pp. 55-82).  Minneapolis, MN:  University of Minnesota Press.
@@ -298,6 +301,8 @@ Come to class with a draft, in hand or on laptop, of your Graphic Annotation ass
 ## Wednesday, March 27th
 **Twenty-First Century Eugenics**
 
+<span class="tag is-important">**Due by Thursday, February 28th:**  [Object Lesson Blog Post](https://sakai.duke.edu/portal/site/d6ad2426-22a1-4005-84ec-48b243439051/tool/d9e34fbd-c606-4dbb-b3c5-3c1b1a48fd47/blog_view?showcomments=true&addcomment=false&locationId=%2Fsite%2Fd6ad2426-22a1-4005-84ec-48b243439051)</span>
+
 * Samuel, E. (2011). "[Examining Millie and Christine McKoy: Where Enslavement and Enfreakment Meet.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/660176)" _Signs: A Journal of Women in Culture and Society 37_(1): 53-81. doi: 10.1086 / 660176
 * Smith, S. (2016). "[Twenty-First Century 'Eugenics'?: The Enduring Legacy.](http://dx.doi.org.proxy.lib.duke.edu/10.1353/pbm.2017.0001)" _Perspectives in Biology and Medicine 59_(2): 156-71. doi: 10.1353/pbm.2017.0001
 
@@ -314,6 +319,8 @@ Come to class with a draft, in hand or on laptop, of your Graphic Annotation ass
 
 ## Wednesday, April 3rd
 **Surgical Simulation**
+
+<span class="tag is-important">**Due by Thursday, April 4th:**  [Object Lesson Blog Post](https://sakai.duke.edu/portal/site/d6ad2426-22a1-4005-84ec-48b243439051/tool/d9e34fbd-c606-4dbb-b3c5-3c1b1a48fd47/blog_view?showcomments=true&addcomment=false&locationId=%2Fsite%2Fd6ad2426-22a1-4005-84ec-48b243439051)</span>
 
 Visit to Duke School of Medicine’s [Surgical Education & Activities Lab (SEAL)](https://surgery.duke.edu/education-and-training/educational-laboratories/surgical-education-and-activities-lab)   
 _Meet at SEAL, [Trent Semans Center for Health Education, 5th Floor](https://goo.gl/maps/rCAUzn7dnT52)_
@@ -333,7 +340,17 @@ _Marina Tsaplina is a puppeteer and performing artist based in Brooklyn, NY whos
 
 ---
 
+## Monday, April 8th
+**Eugenic Economies 2:  Surgery / Stigma / Capitalism**
 
+* Coleman Brown, Lerita. (2013). "Stigma: An Enigma Demystified" in Lennard J. Davis (Ed.).  _The Disability Studies Reader (4th Edition)_.  (pp. 147-160). New York &amp; London:  Routledge.
+* Keune, J. (2018). "[Disability and the Contemporary Surgical Gestalt](http://dsq-sds.org/article/view/5390/4884)." _Disability Studies Quarterly 38_(1).  doi: 10.18061/dsq.v38i1
 
+---
 
+## Wednesday, April 10th
+**Workshop with Marina Tsaplina** 
+
+In preparation:
+* Bring physical / printed materials/objects (created or found/researched) related to your final project to class. These can be in any order, form; it is not expected that these will be more than fragmentary or partial (certainly more fully realized materials are welcome!). Marina will guide the class through a series of exercises to help students create attentive focus on their idea in order to shift final projects from idea to process to creation/concretization.
 
