@@ -284,6 +284,17 @@ Come to class with a draft, in hand or on laptop, of your Graphic Annotation ass
 
 ---
 
+## <span style="color:purple;">Friday, March 22nd</span>
+**<span style="color:purple;">Opening Reception: "One Arm Dove Hunt" by Jacob Moss</span>**
+
+5:30 PM   
+Power Plant Gallery   
+http://mfaeda2019.org/moss.html
+
+_Over the past year I have travelled through more than 25 states, connected with and photographed individuals with various forms of Ectodermal Dysplasia, a rare genetic condition that I myself have. The goal of_ One Arm Dove Hunt _is to explore my relationship with Ectodermal Dysplasia (ED) and others affected by it. What does it means to be part of a community dictated by a medical condition? How does that impact an individual’s sense of self?_
+
+---
+
 ## Monday, March 25th
 **Workshop with [Marina Tsaplina](https://sites.fhi.duke.edu/healthhumanitieslab/team/marina-tsaplina/)**
 
@@ -333,7 +344,7 @@ _Meet at SEAL, [Trent Semans Center for Health Education, 5th Floor](https://goo
 ## <span style="color:purple;">Friday, April 5th @ 12:00 PM</span>
 **<span style="color:purple;">Puppetry and the Poetic Body in Medicine, Health and Healing  (Ruby Friday)</span>**
 
-Rubenstein Art Center
+Rubenstein Arts Center   
 https://artscenter.duke.edu/event/2019-04-05 
 
 _Marina Tsaplina is a puppeteer and performing artist based in Brooklyn, NY whose artistic and scholarly work focuses on the lived experience of chronic illness. She is artist lead of [Reimagining Medicine](https://stories.duke.edu/reimagining-medicine), a medical humanities project based at Duke. Tsaplina will talk about the unique role of puppetry in her deep engagement with the health humanities._ 
@@ -341,9 +352,9 @@ _Marina Tsaplina is a puppeteer and performing artist based in Brooklyn, NY whos
 ---
 
 ## Monday, April 8th
-**Eugenic Economies 2:  Surgery / Stigma / Capitalism**
+**Eugenic Economies II:  Surgery, Stigma, Capitalism**
 
-* Coleman Brown, Lerita. (2013). "Stigma: An Enigma Demystified" in Lennard J. Davis (Ed.).  _The Disability Studies Reader (4th Edition)_.  (pp. 147-160). New York &amp; London:  Routledge.
+* Coleman Brown, Lerita. (2013). "[Stigma: An Enigma Demystified](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-04-08/coleman-brown2013.pdf)" in Lennard J. Davis (Ed.).  _The Disability Studies Reader (4th Edition)_.  (pp. 147-160). New York &amp; London:  Routledge.
 * Keune, J. (2018). "[Disability and the Contemporary Surgical Gestalt](http://dsq-sds.org/article/view/5390/4884)." _Disability Studies Quarterly 38_(1).  doi: 10.18061/dsq.v38i1
 
 ---
@@ -352,5 +363,54 @@ _Marina Tsaplina is a puppeteer and performing artist based in Brooklyn, NY whos
 **Workshop with Marina Tsaplina** 
 
 In preparation:
+
 * Bring physical / printed materials/objects (created or found/researched) related to your final project to class. These can be in any order, form; it is not expected that these will be more than fragmentary or partial (certainly more fully realized materials are welcome!). Marina will guide the class through a series of exercises to help students create attentive focus on their idea in order to shift final projects from idea to process to creation/concretization.
+
+---
+
+## Monday, April 15th
+**In Process Workshop**
+
+* Final project check-ins based on workshop from Wednesday, April 10.
+* Marina In-Process Workshop. Her creative process for her current project, _Illness Revelations_.
+
+---
+
+## <span style="color:purple;">Monday, April 15th</span>
+**<span style="color:purple;">Opening:  "Living Invisible" Thesis Exhibition by Alexandra Bateman</span>**
+
+Rubenstein Arts Center   
+https://artscenter.duke.edu/projects/living-invisible/
+
+
+_Informed by a series of interviews with Duke students about their invisible chronic illnesses, Living Invisible attempts to understand how the visibility of an illness affects a person’s experience both of that illness, and of the world around them._ 
+
+Exhibition Dates:  April 15 - May 13, 2019
+
+---
+
+## Wednesday, April 17th
+**Eugenic Economies III:  Surveillance, Inclusion, Collectivity**
+
+* Saltes, Natasha. (2013). "['Abnormal' Bodies on the Borders of Inclusion: Biopolitics and the Paradox of Disability Surveillance](http://dx.doi.org.proxy.lib.duke.edu/10.24908/ss.v11i1/2.4460 )."  _Surveillance & Society 11_(1/2):  55-73.   doi:  10.24908/ss.v11i1/2.4460
+* Additional Reading TBD
+
+---
+
+## Monday, April 22nd
+**Cure Economies / Care Economies**
+
+Readings TBD
+
+---
+
+## Wednesday, April 24th
+**Medicine and New Bodily Ecologies**
+
+Readings TBD
+
+---
+
+## <span style="color:purple;">Thursday, April 25th - Friday, April 26th</span>
+**<span style="color:purple;">Disability in the Disciplines Conference</span>**
 
