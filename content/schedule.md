@@ -312,7 +312,7 @@ _Over the past year I have travelled through more than 25 states, connected with
 ## Wednesday, March 27th
 **Twenty-First Century Eugenics**
 
-<span class="tag is-important">**Due by Thursday, February 28th:**  [Object Lesson Blog Post](https://sakai.duke.edu/portal/site/d6ad2426-22a1-4005-84ec-48b243439051/tool/d9e34fbd-c606-4dbb-b3c5-3c1b1a48fd47/blog_view?showcomments=true&addcomment=false&locationId=%2Fsite%2Fd6ad2426-22a1-4005-84ec-48b243439051)</span>
+<span class="tag is-important">**Due by Thursday, March 28th:**  [Object Lesson Blog Post](https://sakai.duke.edu/portal/site/d6ad2426-22a1-4005-84ec-48b243439051/tool/d9e34fbd-c606-4dbb-b3c5-3c1b1a48fd47/blog_view?showcomments=true&addcomment=false&locationId=%2Fsite%2Fd6ad2426-22a1-4005-84ec-48b243439051)</span>
 
 * Samuel, E. (2011). "[Examining Millie and Christine McKoy: Where Enslavement and Enfreakment Meet.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/660176)" _Signs: A Journal of Women in Culture and Society 37_(1): 53-81. doi: 10.1086 / 660176
 * Smith, S. (2016). "[Twenty-First Century 'Eugenics'?: The Enduring Legacy.](http://dx.doi.org.proxy.lib.duke.edu/10.1353/pbm.2017.0001)" _Perspectives in Biology and Medicine 59_(2): 156-71. doi: 10.1353/pbm.2017.0001
@@ -393,24 +393,35 @@ Exhibition Dates:  April 15 - May 13, 2019
 **Eugenic Economies III:  Surveillance, Inclusion, Collectivity**
 
 * Saltes, Natasha. (2013). "['Abnormal' Bodies on the Borders of Inclusion: Biopolitics and the Paradox of Disability Surveillance](http://dx.doi.org.proxy.lib.duke.edu/10.24908/ss.v11i1/2.4460 )."  _Surveillance & Society 11_(1/2):  55-73.   doi:  10.24908/ss.v11i1/2.4460
-* Additional Reading TBD
+* Re-read / Review the Braun essays from March 20th class session.
 
 ---
 
 ## Monday, April 22nd
-**Cure Economies / Care Economies**
+**Cure Economies / Care Economies / Bodily Ecologies**
 
-Readings TBD
+* Selection from Eli Clare's _Brilliant Imperfection_
+* Selection from Annemarie Mol's _The Logic of Care_
+* 
 
 ---
 
 ## Wednesday, April 24th
-**Medicine and New Bodily Ecologies**
+**Looking Forward**
 
-Readings TBD
+* Consider how your project engages with emerging paradigms of care vs cure, new understandings of the body, etc.
+* In-class Course Evaluations
 
 ---
 
 ## <span style="color:purple;">Thursday, April 25th - Friday, April 26th</span>
 **<span style="color:purple;">Disability in the Disciplines Conference</span>**
+
+https://sites.fhi.duke.edu/healthhumanitieslab/disability-in-the-disciplines-conference/
+
+_The field of disability studies suggests that our vulnerabilities and weaknesses are what make us human. Starting from the essential perspective that disability rights are human rights, the study of disability helps us to realize that difference is, perhaps paradoxically, the one thing we all have in common. How do our definitions of “health” shift when we accept that there is no “normal”? How does the centering of disability alter our disciplinary assumptions, and enrich our educational, medical, legal, and artistic practices?  Explore these questions at “Disability in the Disciplines,” a two-day conference at Duke University on April 25-26, 2019_
+
+---
+
+
 
