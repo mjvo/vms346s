@@ -314,7 +314,7 @@ _Over the past year I have travelled through more than 25 states, connected with
 
 <span class="tag is-important">**Due by Thursday, March 28th:**  [Object Lesson Blog Post](https://sakai.duke.edu/portal/site/d6ad2426-22a1-4005-84ec-48b243439051/tool/d9e34fbd-c606-4dbb-b3c5-3c1b1a48fd47/blog_view?showcomments=true&addcomment=false&locationId=%2Fsite%2Fd6ad2426-22a1-4005-84ec-48b243439051)</span>
 
-* Samuel, E. (2011). "[Examining Millie and Christine McKoy: Where Enslavement and Enfreakment Meet.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/660176)" _Signs: A Journal of Women in Culture and Society 37_(1): 53-81. doi: 10.1086 / 660176
+* Samuel, E. (2011). "[Examining Millie and Christine McKoy: Where Enslavement and Enfreakment Meet.](http://dx.doi.org.proxy.lib.duke.edu/10.1086/660176)" _Signs: A Journal of Women in Culture and Society 37_(1): 53-81. doi: 10.1086 / 660176
 * Smith, S. (2016). "[Twenty-First Century 'Eugenics'?: The Enduring Legacy.](http://dx.doi.org.proxy.lib.duke.edu/10.1353/pbm.2017.0001)" _Perspectives in Biology and Medicine 59_(2): 156-71. doi: 10.1353/pbm.2017.0001
 
 ---
