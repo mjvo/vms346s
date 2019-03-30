@@ -324,7 +324,6 @@ _Over the past year I have travelled through more than 25 states, connected with
 
 * Gawande, A. (1998, October 5). "[When Machines Become Doctors, Will Doctors Become Machines?](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-04-01/gawande1998.pdf)" _Medical Economics_.
 * Taylor, S. (2004) "[The Right Not to Work: Power and Disability](https://monthlyreview.org/2004/03/01/the-right-not-to-work-power-and-disability/)." _The Monthly Review, 55_(10) 
-* Additional reading TBD
 
 ---
 
@@ -402,7 +401,7 @@ Exhibition Dates:  April 15 - May 13, 2019
 
 * Selection from Eli Clare's _Brilliant Imperfection_
 * Selection from Annemarie Mol's _The Logic of Care_
-* 
+* Gilbert, Scott F., Sapp, J., and Tauber, A. (2012). "A Symbiotic View of Life: We Have Never Been Individuals." _The Quarterly Review of Biology, 87_(4), 325-341. doi:10.1086/668166
 
 ---
 
@@ -423,5 +422,9 @@ _The field of disability studies suggests that our vulnerabilities and weaknesse
 
 ---
 
+## Tuesday, April 30th, 2:00 – 5:00 PM
+**Final Project Deadline and Presentations**
+
+Each student will present on their project and process and show key moments/images from their projects, PechaKucha style.
 
 
