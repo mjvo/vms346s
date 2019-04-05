@@ -399,9 +399,12 @@ Exhibition Dates:  April 15 - May 13, 2019
 ## Monday, April 22nd
 **Cure Economies / Care Economies / Bodily Ecologies**
 
-* Selection from Eli Clare's _Brilliant Imperfection_
-* Selection from Annemarie Mol's _The Logic of Care_
-* Gilbert, Scott F., Sapp, J., and Tauber, A. (2012). "A Symbiotic View of Life: We Have Never Been Individuals." _The Quarterly Review of Biology, 87_(4), 325-341. doi:10.1086/668166
+* Clare, Eli. (2017).  "Violence of Cure." In _Brilliant Imperfection: Grappling with Cure._ (pp. 23-31).  Durham, NC:  Duke University Press.
+* Mol, Annemarie. (2008).  "Customer or Patient?" and "Individual and Collective." In _The Logic of Care:  Health and the Problem of Patient Choice._ (pp. 14-28; 57-72).  London and New York: Routledge.
+
+Optional: 
+
+* Gilbert, Scott F., Sapp, J., and Tauber, A. (2012). "A Symbiotic View of Life: We Have Never Been Individuals." _The Quarterly Review of Biology, 87_(4), 325-341. doi:10.1086 / 668166
 
 ---
 
