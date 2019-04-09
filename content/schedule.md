@@ -361,6 +361,8 @@ _Marina Tsaplina is a puppeteer and performing artist based in Brooklyn, NY whos
 ## Wednesday, April 10th
 **Workshop with Marina Tsaplina** 
 
+**_Class will meet in the Ruby, studio 236_**
+
 In preparation:
 
 * Bring physical / printed materials/objects (created or found/researched) related to your final project to class. These can be in any order, form; it is not expected that these will be more than fragmentary or partial (certainly more fully realized materials are welcome!). Marina will guide the class through a series of exercises to help students create attentive focus on their idea in order to shift final projects from idea to process to creation/concretization.
@@ -399,12 +401,12 @@ Exhibition Dates:  April 15 - May 13, 2019
 ## Monday, April 22nd
 **Cure Economies / Care Economies / Bodily Ecologies**
 
-* Clare, Eli. (2017).  "Violence of Cure." In _Brilliant Imperfection: Grappling with Cure._ (pp. 23-31).  Durham, NC:  Duke University Press.
-* Mol, Annemarie. (2008).  "Customer or Patient?" and "Individual and Collective." In _The Logic of Care:  Health and the Problem of Patient Choice._ (pp. 14-28; 57-72).  London and New York: Routledge.
+* Clare, Eli. (2017).  "[Violence of Cure](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-04-22/clare2017.pdf)." In _Brilliant Imperfection: Grappling with Cure._ (pp. 23-31).  Durham, NC:  Duke University Press.
+* Mol, Annemarie. (2008).  "[Customer or Patient?" and "Individual and Collective](https://sakai.duke.edu/access/content/group/d6ad2426-22a1-4005-84ec-48b243439051/Readings/2019-04-22/mol2008chapters2_5.pdf)." In _The Logic of Care:  Health and the Problem of Patient Choice._ (pp. 14-28; 57-72).  London and New York: Routledge.
 
 Optional: 
 
-* Gilbert, Scott F., Sapp, J., and Tauber, A. (2012). "A Symbiotic View of Life: We Have Never Been Individuals." _The Quarterly Review of Biology, 87_(4), 325-341. doi:10.1086 / 668166
+* Gilbert, Scott F., Sapp, J., and Tauber, A. (2012). "[A Symbiotic View of Life: We Have Never Been Individuals](http://dx.doi.org.proxy.lib.duke.edu/10.1086/668166)." _The Quarterly Review of Biology, 87_(4), 325-341. doi:10.1086 / 668166
 
 ---
 
