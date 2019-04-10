@@ -1,6 +1,7 @@
 ---
 title: "Schedule"
-menu: "main"
+menu: 
+    main:
 ---
 
 Specific readings and themes are subject to revision at the instructor’s discretion, so check back often for the most up-to-date information. Unless otherwise indicated or linked, readings can be found on Sakai.

@@ -1,6 +1,7 @@
 ---
 title: "Requirements"
-menu: main
+menu: 
+    main:
 ---
 
 ## Required Texts

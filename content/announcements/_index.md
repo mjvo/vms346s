@@ -1,4 +1,5 @@
 ---
 title: "Announcements"
-menu: main
+menu: 
+    main:
 ---
