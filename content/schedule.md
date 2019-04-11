@@ -362,6 +362,8 @@ _Marina Tsaplina is a puppeteer and performing artist based in Brooklyn, NY whos
 ## Wednesday, April 10th
 **Workshop with Marina Tsaplina** 
 
+<span class="tag is-important">**Due by Thursday, April 11th:**  [Object Lesson Blog Post](https://sakai.duke.edu/portal/site/d6ad2426-22a1-4005-84ec-48b243439051/tool/d9e34fbd-c606-4dbb-b3c5-3c1b1a48fd47/blog_view?showcomments=true&addcomment=false&locationId=%2Fsite%2Fd6ad2426-22a1-4005-84ec-48b243439051)</span>
+
 **_Class will meet in the Ruby, studio 236_**
 
 In preparation:
